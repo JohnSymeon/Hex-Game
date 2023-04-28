@@ -18,7 +18,7 @@ just lower the global integer of Monte Carlo Repetions.
 
 If your machine can handle it, rather increase the repetitions to get a smarter AI.
 
-~Ioannis Symeonidis 29/03/2023
+~Ioannis Symeonidis 29/03/2023, GitHub: JohnSymeon
 */
 #include <iostream>
 #include <vector>
@@ -55,7 +55,7 @@ class hex_board
 		return out;
 	}
 	
-	public:hex_board(int size=4)://Class constructor takes the board size
+	public:hex_board(int size=4)://Class constructor takes the board size, default 4
 		size(size){init();};
 	
 	public:
@@ -489,7 +489,7 @@ inline void PlayHex()
 int main(void)
 {
 	srand(time(0));
-	cout<<endl<<"Welcome to HEX! by Symeonidis"<<endl<<endl;
+	cout<<endl<<"Welcome to HEX! by JohnSymeon"<<endl<<endl;
 	cout<<"Red wins by connecting North and South\nand Blue wins by connecting East and West."<<endl;
 	cout<<"Red always goes first."<<endl<<endl;
 	cout<<"Tip:Put me on Full Screen"<<endl<<endl;
