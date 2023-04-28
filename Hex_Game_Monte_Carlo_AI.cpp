@@ -5,7 +5,7 @@ then each player plays after the other with the "Red" going first and
 the "Blue" second. When the hex board is displayed, X symbolizes the Red
 tiles, O the Blue and a blank space the neutrol ones. Red wins by 
 connecting North and South rows and Blue wins by connecting East and West
-columns.
+columns. 
 
 The AI player uses a Monte Carlo evaluation to determine the best
 available play to win and avoid losing by examining the Victories to Losses
