@@ -19,3 +19,10 @@ just lower the global integer of Monte Carlo Repetions.
 If your machine can handle it, rather increase the repetitions to get a smarter AI.
 
 ~Ioannis Symeonidis 29/03/2023, GitHub: JohnSymeon
+
+
+![image](https://github.com/JohnSymeon/Hex-Game/assets/125981941/acd7b400-d5a6-4843-bfff-9820a09bcfe7)
+
+
+![image](https://github.com/JohnSymeon/Hex-Game/assets/125981941/8c0f17dd-3438-4cd7-9a7c-ab59d315cf53)
+
